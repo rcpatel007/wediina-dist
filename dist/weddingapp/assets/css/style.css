@@ -232,6 +232,9 @@ font-weight: 600;
     border-bottom: 12px solid #000;
 
 }
+.r-h-27vh{
+    height: 56vh;
+}
 .grid_img{
     width: 100% !important;
     height: 37vh;
@@ -344,6 +347,7 @@ font-weight: 600;
 .venue-grid{
     transition: 0.5s;
     cursor: pointer;
+    margin-bottom: 2%;
 }
 .venue-grid:hover{
 transform: scale(1.1);
