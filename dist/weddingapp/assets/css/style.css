@@ -234,6 +234,7 @@ font-weight: 600;
 }
 .r-h-27vh{
     height: 56vh;
+    width: 100%;
 }
 .grid_img{
     width: 100% !important;
@@ -250,7 +251,7 @@ font-weight: 600;
 }
 
 .card-img{
-    box-shadow: 2px -4px 13px 0px;
+    box-shadow: 2px -16px 13px 0px;
 }
 .card-bottom{
     background: #fff;
@@ -691,7 +692,7 @@ nav ul li a {
           background: #000 !important;
     }
     .subnav-content{
-        width: 80%  !important;
+        width: 88%  !important;
         background: #000 !important;
     }
 
@@ -1017,9 +1018,9 @@ border: 1px solid #e2e2e2;
     font-size: 3.4em;
     color: #fff;
     font-weight: 550;
-    margin-top: -12%;
+    top: 62%;
     position: absolute;
-    left: 39%;
+    left: 42%;
 }
 
 .r_head{
@@ -1114,6 +1115,7 @@ display: none;
         width: 18%;
     border-radius: 6px;
     margin-top: 1%;
+    /* padding-right: 0 !important; */
   }
   
   .premium-pk{

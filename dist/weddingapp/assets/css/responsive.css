@@ -76,14 +76,13 @@
     }
 
     .prime_slide_text{
-        margin-top: -28% !important;
-    left: -3% !important;
-    font-size: 2em !important;
+    left: 10% !important;
+    font-size: 2.7em !important;
     }
     .slide_text{
-        margin-top: -20%;
-    left: 18%;
-    font-size: 2em;
+    top: 60%;
+    left: 27%;
+    font-size: 2.7em;
     }
     .mob_btn_pos{
         position: fixed;
@@ -104,6 +103,10 @@
         /* display: block; */
     width: 100%;
     margin-left: 0;
+    }
+
+    .v_carousel_img{
+        height:40vh;
     }
 } 
 
