@@ -298,10 +298,10 @@ MIT
 @angular/platform-browser
 MIT
 
-@angular/http
+@angular/router
 MIT
 
-@angular/router
+@angular/http
 MIT
 
 ng-starrating

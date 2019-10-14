@@ -883,12 +883,12 @@ padding-top: 1%;
 }
 
 
-.carousel-control-next{
-    display: none !important;
+/* .carousel-control-next{
+    display: block !important;
 }
 .carousel-control-prev{ 
-      display: none !important;
-}
+      display: block !important;
+} */
 .user-icon{
 font-size:25px;
 }
